@@ -2,6 +2,10 @@
 
 Product line profitability and margin performance analysis for Nassu candy Distributor
 
+## 🚀 Live Demo
+
+**Deployed Application:** https://aurum-two-gamma.vercel.app/
+
 ## Overview
 
 AURUM is an analysis tool designed to provide comprehensive insights into product line profitability and margin performance metrics for Nassu candy Distributor.
@@ -24,7 +28,9 @@ For research papers and related documentation, please refer to the links below:
 
 ## Getting Started
 
-Instructions for getting started with AURUM will be added here.
+To access the application, visit: https://aurum-two-gamma.vercel.app/
+
+For local development setup, instructions will be added here.
 
 ## Contributing
 
